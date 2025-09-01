@@ -1,0 +1,14 @@
+{
+    "620547628857425920": [
+        {
+            "reason": "Used @everyone or @here",
+            "timeout": 60,
+            "expires": true
+        },
+        {
+            "reason": "Mentioned restricted user ahsanfr",
+            "timeout": 300,
+            "expires": true
+        }
+    ]
+}

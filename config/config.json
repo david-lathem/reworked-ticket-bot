@@ -1,0 +1,68 @@
+{
+    "ticket_category_id": "1367579996377452616",
+    "escalated_category_id": "1367579996377452616",
+    "admin_role_ids": [
+        1354176258338066582,
+        1380122352095858705
+    ],
+    "superadmin_role_ids": [
+        1354176258338066582,
+        1380122352095858705,
+        1365410175577751592
+    ],
+    "allowed_role_ids": [
+        1354176258338066582,
+        1380122352095858701,
+        1380122352095858700,
+        1380122352095858699,
+        1380122352095858698,
+        1380122352079208616
+    ],
+    "ticket_viewer_role_ids": [
+        1354176258338066582,
+        1380122352095858705,
+        1380122352095858699
+    ],
+    "ticket_counter": "0038",
+    "restricted_roles": [
+        "Admin"
+    ],
+    "booster_role": [
+        1354176258338066582,
+        989592207126331502,
+        1380122352095858699
+    ],
+    "booster_category_id": 1380534332384612367,
+    "booster_lobby_message_id": 1412052204583522337,
+    "admin_whitelist": [
+        1380122352095858699,
+        1343686138363383959,
+        1343685119734583419
+    ],
+    "whitelist_roles": [
+        "Cheats.Love",
+        "Admin",
+        "Pro-Support",
+        "Basic-Support",
+        "Staff"
+    ],
+    "bot_whitelist": [
+        "Cheats.Bot",
+        "Cheats.Support",
+        "Cheats.Ticket"
+    ],
+    "log_channel_id": 1403467988002279567,
+    "reaction_roles_message_id": 1412058918804525117,
+    "reaction_roles_channel_id": 1380534352508616784,
+    "supporter_emojis": {
+        "363327997706764288": "\ud83c\udf46",
+        "592390892262785028": "\ud83d\ude08",
+        "620547628857425920": "\ud83d\ude0a",
+        "976481969506517032": "\"620547628857425920\": \"\\ud83d\\ude0a\""
+    },
+    "tickets_open": false,
+    "tickets_reason": "ss",
+    "tickettool_message_id": 1411992370995662860,
+    "tickettool_channel_id": 1380534359614029886,
+    "booster_lobby_channel_id": 1380534352508616784
+}

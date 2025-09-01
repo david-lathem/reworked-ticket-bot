@@ -1,0 +1,61 @@
+{
+    "r6s": {
+        "name": "R6S - Crusader",
+        "first_time": {
+            "title": "R6S - Crusader - First Time Setup",
+            "description": "**Error messages:**\n> \"Error Occured on Memory, Please Report Developer.\": Try restarting the PC.\n> \"Host Folder Issue / etc error message\":\n> 1. Make sure you have unpacked the loader and are not opening it in the zip file.\n> 2. Go to `C:\\Windows\\System32` and check if there is a folder named `etc`. If so, rename it to `etc2` and remove it.",
+            "steps": [
+                {
+                    "title": "Uninstall Conflicting Programs",
+                    "description": "1. Press `Win + S` and type `Apps & Features`.\n2. Open it and search for **Antivirus, Vanguard, Valorant, FACEIT AC, Counter-Strike**.\n3. Click on them and select **Uninstall**."
+                },
+                {
+                    "title": "Disable Windows Defender",
+                    "description": "1. Download [`Sordum DefenderControl`](https://www.sordum.org/9480/defender-control/).\n2. Open the tool and **disable Windows Defender**."
+                },
+                {
+                    "title": "Turn Off Kernel Protection",
+                    "description": "1. Press `Win + S`, type `cmd`, and **Right Click → Run as Administrator**.\n2. Copy & paste this command:\n```cmd\nbcdedit /set nointegritychecks on\n```\n3. Press **Enter** and restart your PC."
+                },
+                {
+                    "title": "Disable Firewall",
+                    "description": "1. Press `Win + S`, type `Firewall`, and open **Firewall & Network Protection**.\n2. Turn off **Private & Public Network Firewall**."
+                },
+                {
+                    "title": "Disable UAC & Reputation-Based Protection",
+                    "description": "1. Press `Win + S`, type `UAC`, and **drag the slider to 'Never Notify'**.\n2. Press `Win + S`, type `Reputation Based Protection`, and disable all options."
+                },
+                {
+                    "title": "Extra Step for Windows 11 Users",
+                    "description": "1. Press `Win + S`, type `Kernel Protection`, and ensure it is **disabled**."
+                }
+            ],
+            "video": "https://dl.cheats.red/index.php/s/EiB8Cb4M5xxzo7R"
+        },
+        "already_used": {
+            "title": "🔧 Advanced Troubleshooting Steps",
+            "steps": [
+                {
+                    "title": "Video Instruction:",
+                    "description": "[Video](<https://dl.cheats.red/index.php/s/C9jAJaqRzsWn73m>)"
+                },
+                {
+                    "title": "Check if `.exe` is correct",
+                    "description": "Your `.exe` must be reviewed by our developer."
+                },
+                {
+                    "title": "Locate the Ubisoft/R6Siege Folder",
+                    "description": "1. Press `Win + R` to open **Run**.\n2. Type `%localappdata%` and press **Enter**.\n3. Find the folder **Ubisoft/R6Siege**."
+                },
+                {
+                    "title": "Upload Your `.exe`",
+                    "description": "1. If the file is found, **upload it to Google Drive**.\n2. Set the file to **Public**.\n3. Copy the **Google Drive Link**."
+                },
+                {
+                    "title": "Provide Key & Exact Problem Description",
+                    "description": "1. Submit your **Product Key** and **Google Drive Link**.\n2. **Exact Problem Description**: Describe **exactly** what happens (error message, steps you tried, and system details)."
+                }
+            ]
+        }
+    }
+}
